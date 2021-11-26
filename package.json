@@ -1,0 +1,19 @@
+{
+  "name": "nft-card",
+  "version": "1.0.0",
+  "description": "nft card ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerSilvahuu/nft-card.git"
+  },
+  "author": "feerr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FerSilvahuu/nft-card/issues"
+  },
+  "homepage": "https://github.com/FerSilvahuu/nft-card#readme"
+}
